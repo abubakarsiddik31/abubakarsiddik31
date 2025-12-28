@@ -44,3 +44,6 @@ Currently engineering AI systems at **AskTuring.ai**.
 ---
 
 *I care about correctness, reliability, and shipping AI that actually works.*
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsiddik31)](https://git.io/streak-stats)
