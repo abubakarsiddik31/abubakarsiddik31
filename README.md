@@ -2,8 +2,7 @@
 
 **AI Engineer · NLP · LLM · Software Development**
 
-I build **reliable, production-grade AI systems** with a strong focus on  
-**agentic workflows, RAG pipelines, and LLM optimization**.
+I build **reliable, production-grade AI systems** with a strong focus on  **agentic workflows, RAG pipelines, and LLM optimization**.
 
 ---
 
