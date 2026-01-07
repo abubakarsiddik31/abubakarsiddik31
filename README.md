@@ -4,7 +4,6 @@
 
 I build **reliable, production-grade AI systems** with a strong focus on  **agentic workflows, RAG pipelines, and LLM optimization**.
 
----
 
 ## What I do
 
@@ -15,7 +14,6 @@ I build **reliable, production-grade AI systems** with a strong focus on  **agen
 
 Currently engineering AI systems at **AskTuring.ai**.
 
----
 
 ## Find me
 
@@ -23,7 +21,6 @@ Currently engineering AI systems at **AskTuring.ai**.
 - 💼 LinkedIn: https://www.linkedin.com/in/abu-bakar-siddik31  
 - 🐦 X (Twitter): https://x.com/abubakar_AIE  
 
----
 
 *I care about correctness, reliability, and shipping AI that actually works.*
 
