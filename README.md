@@ -1,8 +1,8 @@
 # Hi, I'm Abu Bakar Siddik 👋
 
-**AI Engineer · NLP · LLM · Software Development**
+**AI Engineer · Backend Engineer · LLM · Software Development**
 
-I build **reliable, production-grade AI systems** with a strong focus on  **agentic workflows, RAG pipelines, and LLM optimization**.
+I build **reliable, production-grade AI & backend systems** with a strong focus on  **agentic workflows, RAG pipelines, and LLM optimization**.
 
 
 ## What I do
