@@ -46,38 +46,20 @@ I build **reliable, production-grade AI systems** with a focus on multi-step rea
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=default&background=ffffff&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&hide_border=true">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=solarized-dark" alt="GitHub Streak" />
 </div>
 
 ### 📈 Activity Overview
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=default">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=github_dark">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=github_dark&utcOffset=8">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=default&utcOffset=8">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=github_dark&utcOffset=8">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&days=60">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&days=60">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&days=60">
-  </picture>
+  <img height="195" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=tokyonight" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abubakarsiddik31&theme=tokyonight" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=tokyonight&utcOffset=8" />
+  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=0d1117&color=ffffff&line=32cd32&point=32cd32&area=true&hide_border=true&days=60" />
 </div>
 
 <br clear="both"> 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abubakarsiddik31&base=1998&color=white&label=PROFILE+VIEWS&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abubakarsiddik31&base=1998&color=brightgreen&label=PROFILE+VIEWS&style=flat-square" />
 </div>
