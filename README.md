@@ -9,9 +9,11 @@
 I build **reliable, production-grade AI & backend systems** with a strong focus on **agentic workflows, RAG pipelines, and LLM optimization**.
 
 ### 🛠️ Expertise
-**Languages:** Python, TypeScript, Node.js  
-**AI & Data:** OpenAI, LangChain, RAG Pipelines, LLM Optimization  
-**Infrastructure:** PostgreSQL, FastAPI, Docker, Redis  
+**LLMs & Agentic AI:** Agentic Workflows (LangGraph, CrewAI), RAG Pipelines, Fine-Tuning, Transformers, Multi-step Reasoning  
+**AI Ops & Optimization:** LLM Latency/Cost Optimization, Observability (Langfuse), Model Evaluation  
+**Backend & Scaling:** Python (FastAPI), TypeScript (NestJS), High-throughput APIs, Distributed Systems  
+**Databases & Vector Stores:** PostgreSQL, MongoDB, Redis, Weaviate, Pinecone, Qdrant  
+**Cloud & DevOps:** AWS (SageMaker, EC2), GCP (Vertex AI), Docker, Kubernetes  
 
 ---
 
