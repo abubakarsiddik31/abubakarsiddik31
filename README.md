@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://img.shields.io/github/followers/abubakarsiddik31?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+</div>
+
 # Hi, I'm Abu Bakar Siddik 👋
 
 **AI Engineer & Team Lead · Backend Engineer · LLM · Software Development**
@@ -41,20 +45,16 @@ Currently engineering AI systems at **AskTuring.ai**.
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarsiddik31&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=solarized-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ### 📈 Activity Overview
 
 <div align="center">
-  <img height="195" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=solarized_dark" />
-  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abubakarsiddik31&theme=solarized_dark" />
-  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=solarized_dark&utcOffset=8" />
-  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true&days=60" />
+  <img height="195" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=tokyonight" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abubakarsiddik31&theme=tokyonight" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=tokyonight&utcOffset=8" />
+  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&theme=tokyonight&area=true&hide_border=true&days=60" />
 </div>
 
 <br clear="both"> 
