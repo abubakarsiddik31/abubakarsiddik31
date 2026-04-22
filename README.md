@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://img.shields.io/github/followers/abubakarsiddik31?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
-</div>
-
 # Hi, I'm Abu Bakar Siddik 👋
 
 **AI Engineer & Team Lead · Backend Engineer · LLM · Software Development**
@@ -9,11 +5,11 @@
 I build **reliable, production-grade AI & backend systems** with a strong focus on **agentic workflows, RAG pipelines, and LLM optimization**.
 
 ### 🛠️ Expertise
-**LLMs & Agentic AI:** Agentic Workflows (LangGraph, CrewAI), RAG Pipelines, Fine-Tuning, Transformers, Multi-step Reasoning  
-**AI Ops & Optimization:** LLM Latency/Cost Optimization, Observability (Langfuse), Model Evaluation  
-**Backend & Scaling:** Python (FastAPI), TypeScript (NestJS), High-throughput APIs, Distributed Systems  
+**LLMs & Agentic AI:** Agentic Workflows, RAG Pipelines, Fine-Tuning, Transformers, Multi-step Reasoning  
+**AI Ops & Optimization:** LLM Latency/Cost Optimization, Observability, Model Evaluation  
+**Backend & Scaling:** Python (FastAPI), TypeScript (NestJS), High-throughput APIs
 **Databases & Vector Stores:** PostgreSQL, MongoDB, Redis, Weaviate, Pinecone, Qdrant  
-**Cloud & DevOps:** AWS (SageMaker, EC2), GCP (Vertex AI), Docker, Kubernetes  
+**Cloud & DevOps:** AWS (SageMaker, EC2), GCP (Vertex AI), Docker
 
 ---
 
