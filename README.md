@@ -26,3 +26,20 @@ Currently engineering AI systems at **AskTuring.ai**.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsiddik31)](https://git.io/streak-stats)
+
+<div align="center">
+  
+<img height="195" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarsiddik31&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abubakarsiddik31&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abubakarsiddik31&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abubakarsiddik31&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakarsiddik31&theme=solarized_dark&utcOffset=8" />
+<img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true&days=60" />
+</div>
+
+<br clear="both"> 
+<br clear="both"> 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakarsiddik31&base=1998&color=brightgreen" />
+</div>
