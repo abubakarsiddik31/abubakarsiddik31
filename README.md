@@ -1,6 +1,3 @@
-<div align="left">
-  <img src="https://img.shields.io/github/followers/abubakarsiddik31?style=for-the-badge&logo=github&color=ffffff&labelColor=000000" alt="Followers" />
-</div>
 
 # Hi, I'm Abu Bakar Siddik 👋
 ### AI Engineer & Team Lead @ [AskTuring.ai](https://askturing.ai)
@@ -10,8 +7,8 @@
 I build **reliable, production-grade AI systems** with a focus on multi-step reasoning, fine-tuning, and robust distributed architectures.
 
 ### 🛠️ Expertise
-**LLMs & Agentic AI:** Agentic Workflows (LangGraph, CrewAI), RAG Pipelines, Fine-Tuning, Transformers, Multi-step Reasoning  
-**AI Ops & Optimization:** LLM Latency/Cost Optimization, Observability (Langfuse), Model Evaluation  
+**LLMs & Agentic AI:** Agentic Workflows, RAG Pipelines, Fine-Tuning, Transformers, Multi-step Reasoning  
+**AI Ops & Optimization:** LLM Latency/Cost Optimization, Observability, Model Evaluation  
 **Backend & Scaling:** Python (FastAPI), TypeScript (NestJS), High-throughput APIs, Distributed Systems  
 **Databases & Vector Stores:** PostgreSQL, MongoDB, Redis, Weaviate, Pinecone, Qdrant  
 **Cloud & DevOps:** AWS (SageMaker, EC2), GCP (Vertex AI), Docker, Kubernetes  
