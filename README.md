@@ -22,9 +22,11 @@ Currently engineering AI systems at **AskTuring.ai**.
 
 ## Find me
 
-- 🌐 Portfolio: [abubakarsiddik.site](https://abubakarsiddik.site)
-- 💼 LinkedIn: [abu-bakar-siddik31](https://www.linkedin.com/in/abu-bakar-siddik31)
-- 🐦 X (Twitter): [@abubakar_AIE](https://x.com/abubakar_AIE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abubakarsiddik.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-bakar-siddik31)
+[![X (Twitter)](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abubakar_AIE)
+
+<br/>
 
 *I care about correctness, reliability, and shipping AI that actually works.*
 
