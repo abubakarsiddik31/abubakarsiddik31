@@ -1,6 +1,6 @@
 # Hi, I'm Abu Bakar Siddik 👋
 
-**AI Engineer · Backend Engineer · LLM · Software Development**
+**AI Engineer & Team Lead · Backend Engineer · LLM · Software Development**
 
 I build **reliable, production-grade AI & backend systems** with a strong focus on **agentic workflows, RAG pipelines, and LLM optimization**.
 
@@ -19,6 +19,12 @@ I build **reliable, production-grade AI & backend systems** with a strong focus 
 - Ship **production AI** with observability and guardrails
 
 Currently engineering AI systems at **AskTuring.ai**.
+
+## 🚀 Featured Projects
+
+- **[CareerKor](https://abubakarsiddik.site):** AI-powered career tool for generating tailored resumes and tracking applications.
+- **[Axiom Wiki](https://abubakarsiddik.site):** AI-powered personal knowledge base with MCP (Model Context Protocol) support.
+- **[MagicSpin 360°](https://abubakarsiddik.site):** Generates interactive 360° rotations from 2D images *(Google Nano Banana Hackathon 2025 Winner)*.
 
 ## Find me
 
