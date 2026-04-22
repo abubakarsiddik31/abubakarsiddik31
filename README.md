@@ -1,9 +1,8 @@
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31E8B8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abu+Bakar+Siddik;AI+Engineer;Backend+Engineer;LLM+Optimization+Specialist" alt="Typing SVG" /></div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/abubakarsiddik31?style=for-the-badge&color=ffd700&labelColor=000000" alt="Total Stars" />
   <img src="https://img.shields.io/github/followers/abubakarsiddik31?style=for-the-badge&color=1da1f2&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/abubakarsiddik31?style=for-the-badge&color=32cd32&labelColor=000000" alt="Commits" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-Expertise-32cd32?style=for-the-badge&labelColor=000000" alt="Expertise" />
 </div>
 
 <br/>
