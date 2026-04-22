@@ -1,11 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31E8B8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abu+Bakar+Siddik;AI+Engineer;Backend+Engineer;LLM+Optimization+Specialist" alt="Typing SVG" /></div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/abubakarsiddik31/abubakarsiddik31?style=for-the-badge&color=ffd700&labelColor=000000" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/abubakarsiddik31?style=for-the-badge&color=1da1f2&labelColor=000000" alt="Followers" />
-</div>
-
-<br/>
+# Hi, I'm Abu Bakar Siddik 👋
 
 **AI Engineer · Backend Engineer · LLM · Software Development**
 
