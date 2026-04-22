@@ -25,7 +25,17 @@ Currently engineering AI systems at **AskTuring.ai**.
 *I care about correctness, reliability, and shipping AI that actually works.*
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsiddik31)](https://git.io/streak-stats)
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarsiddik31&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abubakarsiddik31&theme=solarized-dark" alt="GitHub Streak" />
+</div>
+
+### 📈 Activity Overview
 
 <div align="center">
   
@@ -37,7 +47,6 @@ Currently engineering AI systems at **AskTuring.ai**.
 <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarsiddik31&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true&days=60" />
 </div>
 
-<br clear="both"> 
 <br clear="both"> 
 
 <div align="center">
