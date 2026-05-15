@@ -7,14 +7,6 @@
 I build **reliable, production-grade AI systems** with a focus on multi-step reasoning, fine-tuning, and robust distributed architectures.
  
 
----
-
-## What I do
-
-- Design **agentic AI systems** with multi-step reasoning
-- Build **RAG pipelines** with grounding, evaluation, and safety
-- Optimize **LLM performance** (latency, accuracy, hallucination reduction)
-- Ship **production AI** with observability and guardrails
 
 ## 🚀 Featured Projects
 
