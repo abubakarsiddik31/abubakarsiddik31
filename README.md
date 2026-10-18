@@ -1,6 +1,6 @@
 # Abu Bakar Siddik
 
-Co-founder & Lead AI Engineer — agent orchestration, real-world tool integration, low-level LLM control.
+Lead AI Engineer — agent orchestration, real-world tool integration, low-level LLM control.
 
 [Website](https://abubakarsiddik.site) · [Writing](https://abubakarsiddik.site/blog) · [LinkedIn](https://www.linkedin.com/in/abu-bakar-siddik31) · [X](https://x.com/abubakar_AIE)
 
