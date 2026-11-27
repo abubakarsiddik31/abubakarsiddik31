@@ -24,7 +24,7 @@ Previously I led the Core AI team at [AskTuring.ai](https://askturing.ai), where
 - **[Skill Manager](https://github.com/abubakarsiddik31/skill-manager)** — developer tool for managing reusable AI skill definitions.
 - **[MagicSpin 360°](https://github.com/abubakarsiddik31/MagicSpin360)** — single image to interactive 360° rotation. Winner, Google Nano Banana Hackathon 2025.
 
-Full portfolio: [abubakarsiddik.site/projects](https://abubakarsiddik.site/projects)
+Full portfolio: [abubakar-siddik.com/projects](https://abubakar-siddik.com/projects)
 
 ## Writing
 
